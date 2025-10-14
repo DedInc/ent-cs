@@ -11,7 +11,10 @@
 #### 1️⃣ Python за час от Хауди Хо
 **Для кого:** Для тех, кто вообще не знает Python
 **Длительность:** ~1 час
-**Ссылка:** [Смотреть на YouTube](https://www.youtube.com/watch?v=P0czP5MEbYQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0czP5MEbYQ" title="Python за час" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+📺 *Если видео не отображается, смотрите здесь:* [Открыть на YouTube](https://www.youtube.com/watch?v=P0czP5MEbYQ)
 
 📌 **С полного нуля до хоть чего-то** — этот курс даст вам базовое понимание Python, чтобы вы могли начать писать простые программы.
 
@@ -22,7 +25,10 @@
 #### 2️⃣ Python-джедай от Хауди Хо
 **Для кого:** Для тех, кто прошёл первый курс или имеет базовые знания
 **Длительность:** Полный курс (плейлист)
-**Ссылка:** [Смотреть плейлист](https://www.youtube.com/watch?v=ahe3WpBMdm4&list=PLvoBekrlHDgROfUUHMbrrdsy_b2y2V_rj)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvoBekrlHDgROfUUHMbrrdsy_b2y2V_rj" title="Python-джедай" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+📺 *Если видео не отображается, смотрите здесь:* [Открыть плейлист на YouTube](https://www.youtube.com/watch?v=ahe3WpBMdm4&list=PLvoBekrlHDgROfUUHMbrrdsy_b2y2V_rj)
 
 ⭐ **Крайне рекомендую!** По сути то же самое, что и первый курс, только **укрепить помощнее**. Более детальное объяснение тех же тем + дополнительные возможности Python.
 

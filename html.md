@@ -11,7 +11,10 @@
 #### 1️⃣ HTML за час от Хауди Хо
 **Для кого:** Для тех, кто вообще не знает HTML
 **Длительность:** ~1 час
-**Ссылка:** [Смотреть на YouTube](https://www.youtube.com/watch?v=bWNmJqgri4Q)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bWNmJqgri4Q" title="HTML за час" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+📺 *Если видео не отображается, смотрите здесь:* [Открыть на YouTube](https://www.youtube.com/watch?v=bWNmJqgri4Q)
 
 📌 **С полного нуля до хоть чего-то** — этот курс даст вам базовое понимание HTML-разметки, чтобы вы могли начать создавать простые веб-страницы.
 
@@ -22,7 +25,10 @@
 #### 2️⃣ Полный курс HTML от ItProger
 **Для кого:** Для тех, кто прошёл первый курс или имеет базовые знания
 **Длительность:** Полный курс (плейлист)
-**Ссылка:** [Смотреть плейлист](https://www.youtube.com/watch?v=_R5a-Kc0pRc&list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO" title="Полный курс HTML" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+📺 *Если видео не отображается, смотрите здесь:* [Открыть плейлист на YouTube](https://www.youtube.com/watch?v=_R5a-Kc0pRc&list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO)
 
 ⭐ **Крайне рекомендую!** По сути то же самое, что и первый курс, только **укрепить помощнее**. Более детальное объяснение тех же тем + дополнительные возможности HTML.
 
